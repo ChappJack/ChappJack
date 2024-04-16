@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ChappJack
-- 👀 I’m interested in goofing around with computers
-- 🌱 I’m currently learning Unity
-- 💞️ I’m looking to collaborate on a game about switching gravity
-- 📫 How to reach me um no
+- 👀 I’m interested in Minecraft Fabric Modding
+- 🌱 I’m currently learning Minecraft
+- 💞️ I’m looking to collaborate on nothing at the moment
+- 📫 How to reach me? Please don't lmao
 
 <!---
 ChappJack/ChappJack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
