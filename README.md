@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ChappJack
-- 👀 I’m interested in Minecraft Fabric Modding
-- 🌱 I’m currently learning Minecraft
+- 👀 I’m interested in learning Javascript
+- 🌱 I’m currently learning various Godot projects
 - 💞️ I’m looking to collaborate on nothing at the moment
-- 📫 How to reach me? Please don't lmao
+- 📫 How to reach me? N/A
 
 <!---
 ChappJack/ChappJack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
