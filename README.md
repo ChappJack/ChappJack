@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ChappJack
-- 👀 I’m interested in learning
-- 🌱 I’m currently learning
-- 💞️ I’m looking to collaborate
+- 👀 I’m interested in learning more about languages in the C and C++ branch
+- 🌱 I’m currently learning Lua and Luau
+- 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me?
 
 <!---
