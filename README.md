@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ChappJack
-- 👀 I’m interested in learning Javascript
-- 🌱 I’m currently learning various Godot projects
-- 💞️ I’m looking to collaborate on nothing at the moment
-- 📫 How to reach me? N/A
+- 👀 I’m interested in learning
+- 🌱 I’m currently learning
+- 💞️ I’m looking to collaborate
+- 📫 How to reach me?
 
 <!---
 ChappJack/ChappJack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
